@@ -1,0 +1,2 @@
+# GoGet
+Shop Recommendation Application

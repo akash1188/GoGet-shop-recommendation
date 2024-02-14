@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "491418212771",
+    "project_id": "goget-132b4",
+    "storage_bucket": "goget-132b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491418212771:android:624011e80364bccf81a216",
+        "android_client_info": {
+          "package_name": "com.vigshrav.gogetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491418212771-9e5km3trfdjjmfotasv63oq6hdamfid0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vigshrav.gogetapp",
+            "certificate_hash": "cc7683694ed4333294d444012fe311da15083385"
+          }
+        },
+        {
+          "client_id": "491418212771-0itc30epuo2tbnpjd8ci06usnnbauh1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnaR9n4dK4qOLvX0eDeEzaaiaCwibgTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491418212771-0itc30epuo2tbnpjd8ci06usnnbauh1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
